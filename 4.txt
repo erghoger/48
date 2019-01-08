@@ -1,0 +1,5 @@
+<body background="0.jpg">
+<a name=4>
+<font face="標楷體"><h2>巧克力歐菲香</h2></font>
+<img src="2.jpg"align=left>
+香濃的巧克力配上香脆的甜甜圈體，讓人心滿意足的好滋味
